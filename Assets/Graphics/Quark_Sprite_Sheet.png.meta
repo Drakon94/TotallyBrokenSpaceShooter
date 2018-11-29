@@ -1,0 +1,1444 @@
+fileFormatVersion: 2
+guid: 7b4ea938967b04b4bb106b003c0b875e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Quark_Sprite_Sheet_0
+    21300002: Quark_Sprite_Sheet_1
+    21300004: Quark_Sprite_Sheet_2
+    21300006: Quark_Sprite_Sheet_3
+    21300008: Quark_Sprite_Sheet_4
+    21300010: Quark_Sprite_Sheet_5
+    21300012: Quark_Sprite_Sheet_6
+    21300014: Quark_Sprite_Sheet_7
+    21300016: Quark_Sprite_Sheet_8
+    21300018: Quark_Sprite_Sheet_9
+    21300020: Quark_Sprite_Sheet_10
+    21300022: Quark_Sprite_Sheet_11
+    21300024: Quark_Sprite_Sheet_12
+    21300026: Quark_Sprite_Sheet_13
+    21300028: Quark_Sprite_Sheet_14
+    21300030: Quark_Sprite_Sheet_15
+    21300032: Quark_Sprite_Sheet_16
+    21300034: Quark_Sprite_Sheet_17
+    21300036: Quark_Sprite_Sheet_18
+    21300038: Quark_Sprite_Sheet_19
+    21300040: Quark_Sprite_Sheet_20
+    21300042: Quark_Sprite_Sheet_21
+    21300044: Quark_Sprite_Sheet_22
+    21300046: Quark_Sprite_Sheet_23
+    21300048: Quark_Sprite_Sheet_24
+    21300050: Quark_Sprite_Sheet_25
+    21300052: Quark_Sprite_Sheet_26
+    21300054: Quark_Sprite_Sheet_27
+    21300056: Quark_Sprite_Sheet_28
+    21300058: Quark_Sprite_Sheet_29
+    21300060: Quark_Sprite_Sheet_30
+    21300062: Quark_Sprite_Sheet_31
+    21300064: Quark_Sprite_Sheet_32
+    21300066: Quark_Sprite_Sheet_33
+    21300068: Quark_Sprite_Sheet_34
+    21300070: Quark_Sprite_Sheet_35
+    21300072: Quark_Sprite_Sheet_36
+    21300074: Quark_Sprite_Sheet_37
+    21300076: Quark_Sprite_Sheet_38
+    21300078: Quark_Sprite_Sheet_39
+    21300080: Quark_Sprite_Sheet_40
+    21300082: Quark_Sprite_Sheet_41
+    21300084: Quark_Sprite_Sheet_42
+    21300086: Quark_Sprite_Sheet_43
+    21300088: Quark_Sprite_Sheet_44
+    21300090: Quark_Sprite_Sheet_45
+    21300092: Quark_Sprite_Sheet_46
+    21300094: Quark_Sprite_Sheet_47
+    21300096: Quark_Sprite_Sheet_48
+    21300098: Quark_Sprite_Sheet_49
+    21300100: Quark_Sprite_Sheet_50
+    21300102: Quark_Sprite_Sheet_51
+    21300104: Quark_Sprite_Sheet_52
+    21300106: Quark_Sprite_Sheet_53
+    21300108: Quark_Sprite_Sheet_54
+    21300110: Quark_Sprite_Sheet_55
+    21300112: Quark_Sprite_Sheet_56
+    21300114: Quark_Sprite_Sheet_57
+    21300116: Quark_Sprite_Sheet_58
+    21300118: Quark_Sprite_Sheet_59
+    21300120: Quark_Sprite_Sheet_60
+    21300122: Quark_Sprite_Sheet_61
+    21300124: Quark_Sprite_Sheet_62
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1580
+        width: 428
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feca63a6dcc00c04d8003435509ee5f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1618
+        width: 351
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b73d628b844e0a43ac21857f54aeafe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1776
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0039e4597967f4a851236f0b1773bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1307
+        width: 149
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41db770ad909274e89e9757326850c5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1307
+        width: 151
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8475ebc97dcaf744988d7570a9a12cc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1307
+        width: 152
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f82ef6f25f22a4b9aaf32e429d9b9d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 1276
+        width: 428
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b32ba61b454694ba4546dc5a353e82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1484
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcf7a6dfea22904d9b128eb15903dea
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 1420
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d06b5cb2ac0f498a959eafbac96aa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1425
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1101dcac97977e045b5723001475f94b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 1428
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c0af9f8b5a63f4281cd179695147e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1432
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a76743e486d894c9159b416b1cfaa4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1191
+        width: 244
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f228bc75cf7d1694bad941cbfc4ae4cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 973
+        width: 349
+        height: 346
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ddff86a94cea3418c03f42ee44e6cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1292
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa41d6f6e7bc2e488d4a20b6b2acf96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1313
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00f1f82e3e3be9458cbee017695a3b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1054
+        width: 149
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f7ae20e74944446bbfddc0d0ab420a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1054
+        width: 152
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2dbbca853ef3543bd64252ebad1c3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1054
+        width: 150
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bf4fa44db55e348a54d96a9998afdf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 842
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13691e8ffb3fea4ea6e63bbf71de7f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 898
+        width: 245
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2723340d7add9014d8f6ca448b99d4ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 800
+        width: 149
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9d48cb30cd4ac47ab07b9702080332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 800
+        width: 151
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b2d761f97fe9840b8fd0565c8f8ab8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 800
+        width: 151
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7435f8d9abd3a5943aacd2c3a6a2d31b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 972
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41db974c822ac6469ea52aea5b3996a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 618
+        width: 340
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c338cdc11a54b4ebe935cf036ae93a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 912
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9abab24f172e1704db975c7277063647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 912
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0114ecc77d97d22479a4b88ed0ec1ff6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 902
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c32ce99e52b53e419aaeb92ed9d4579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 696
+        width: 278
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07115ad079c4f24393926f935e1d21d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_30
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 895
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1846dea94db8c24682cdbfdc648bca4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_31
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 873
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86610d3003cf09d4eb71c3060af32da7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 553
+        width: 150
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1aebdd942775f4499087b19e35a47c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 552
+        width: 151
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345693288297698469d4752091f4cbd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_34
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 552
+        width: 151
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8ff34ac0945ba4b94ef0b72d902613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 709
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c563f8c5de50234888e8025368e4fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 396
+        width: 428
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aaa5ec9ebcac0f4ebdd88fb0bf2de58
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 606
+        width: 244
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 008adfe688dc1284895f5aa5e06747b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_38
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 696
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbb9c223f84a6c4b851d66b1e2bbdf6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 636
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ac6f163a5ef4f43acc7640406c6dbf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_40
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 338
+        width: 346
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8ac04d6858a0f4083cc919bf957e0f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_41
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 634
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bb5e71136d3c941aaa4f656b935ecc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_42
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 636
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba17900bc8dd854c9ed9763c289769d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_43
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 637
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b383afa0b20bf0439371756282757e2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_44
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 637
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a251253ee75636d4ca0849d32b6e4a4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_45
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 620
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09bbd69ba0541f46b616aba741c3b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 613
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc1dde1908f8f64dae3e46a705c954c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 613
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d92c272b58984eab365a2a76b4f8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 613
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d380d1caca0ab746ad82333cdae37de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 60
+        width: 159
+        height: 459
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb56051b3ee80d409e1fb290fcaa600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 512
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec7144a309ad184f87bb457eca29cb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 59
+        width: 161
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78c109939f367504e86804979de4394d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 288
+        width: 192
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ff2e30e53aabe47b9352815afc0cf0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 312
+        width: 244
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac814be3cd64a4e41ba3768d1bcb2e2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 318
+        width: 179
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ea001b7fb2a6648ace727be722c54e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_55
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 361
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6766bd888b54747970836c40b7bf41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_56
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 24
+        width: 351
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911f1be3e2fcb7d4fba914cddbb8881e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_57
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 338
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9946dfed47abae4c8abd0352c95bdac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_58
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 123
+        width: 182
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1598105df9231dd44bde79428f4302a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_59
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 48
+        width: 165
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffe564ecd9ef1944d8e307a268065139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_60
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 39
+        width: 271
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68051a4e44aa376449840b172c6c87ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_61
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 20
+        width: 244
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47c2e243990b648b8417f167534c1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quark_Sprite_Sheet_62
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 11
+        width: 100
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f551a41df032e4c8eb6c005f86f2b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0a9946fac639b1740ba3c71f7dcae5ed
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
